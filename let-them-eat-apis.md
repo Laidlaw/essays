@@ -24,14 +24,16 @@ Similarly the indy dev can only take on a small problem, an rss reader or email 
 
 So is this this just some horrible future we have to contend with? is there another way?
 
+I'd like to suggest a different focus. 
 
+Maybe learning to code is less of a social responsibility than learning how to structure data.
 
----
+We should be more concerned with what our data means than how to code. We should all data miners. By shifting our focus to how data is structured, we gain a couple of things.
 
-Many programmers have a tendency to keep their heads down, like surgeons, focused only on tech stack at hand. 
+1.Standards emerge more quickly
+2.APIs are more understood and visible. Instead of a client requesting a website or app, they request an API.
+3.Apps, instead of pulling api and data from massive companies, pull from the people, who have structured the data how they want.
 
-Looking up, eyeing other languages
+Our machines are getting smarter, there is no stopping that. Next to Artificial Intelligence, APIs look like a line in Flatland. One dimensional, linear and declarative. 
 
-
-
-"What transformed western health was not surgery, but pharmaceutical technology."
+But the inputs that go into the machine will always be the most vital points. Whether that's an api or unstructured data for a drone to sort out, its the inputs that guide the algorithms. 
