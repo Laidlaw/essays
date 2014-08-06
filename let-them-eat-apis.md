@@ -37,3 +37,8 @@ We should be more concerned with what our data means than how to code. We should
 Our machines are getting smarter, there is no stopping that. Next to Artificial Intelligence, APIs look like a line in Flatland. One dimensional, linear and declarative. 
 
 But the inputs that go into the machine will always be the most vital points. Whether that's an api or unstructured data for a drone to sort out, its the inputs that guide the algorithms. 
+---
+Notes
+mention the problem of over engineering solutions.
+links
+images
