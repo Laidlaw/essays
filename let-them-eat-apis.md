@@ -8,7 +8,17 @@ We programmers represent the best of mankind. We are curious and bold, early ado
 <blockquote class="twitter-tweet" lang="en"><p>Worth reading Superintelligence by Bostrom. We need to be super careful with AI. Potentially more dangerous than nukes.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/statuses/495759307346952192">August 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Mark Burgess's latest article tackles the infrastructure of our coding culture. Our recklessness could create a new infrastructure of APIs and Artificial Intelligence that we can't back away from. We know that the things we build get used in unexpected ways, we know the government has a disregard for privacy,  
+Mark Burgess's latest article tackles the infrastructure of our coding culture. Our recklessness could create a new infrastructure of APIs that we can't back away from but can be easily exploited. 
+
+Where does our bravado come from? Which came first, the asshole or IT? Are people drawn to development because they have certain traits or is there something in myriad habits of development that brings it out?
+
+For instance, programmers have a bad taste for hand-wavy articles (like this one) the same way physicists don't care for philosophers. Just look at the language we use.
+
+['Low-level'](http://en.wikipedia.org/wiki/Low-level_programming_language) is a common phrase among developers that means deep.   But deep for developers means machine language, bash, the kernel. Deep into the strange guts of the machine. That is where the truth is, because truth is in the ones and zeros. 
+
+['High-level'](http://en.wikipedia.org/wiki/High-level_programming_language) means abstract and easy - made for humans, not machines. It has a second connotation of being conceptual, philosophic - what the rest of the world calls deep but what programmers equate to the term 'vaporware.' Big thinking that never ships. 
+
+We know that the things we build get used in unexpected ways, we know the government has a disregard for privacy,  
  
 
 We're doing it again. Building things because we can, not because we should.
