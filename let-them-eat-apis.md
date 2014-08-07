@@ -18,6 +18,8 @@ For instance, programmers have a bad taste for hand-wavy articles (like this one
 
 ['High-level'](http://en.wikipedia.org/wiki/High-level_programming_language) means abstract and easy - made for humans, not machines. It has a second connotation of being conceptual, philosophic - what the rest of the world calls deep but what programmers equate to the term 'vaporware.' Big thinking that never ships. 
 
+---
+
 We know that the things we build get used in unexpected ways, we know the government has a disregard for privacy,  
  
 
