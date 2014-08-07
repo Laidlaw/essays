@@ -1,6 +1,15 @@
-Let them eat APIs
+#Let them eat APIs
 
-Mark Burgess recently wrote an essay about the dangers of creating APIs in a culture of bravado over empathy. We're doing things because we can, not because we should. Elon Musk recently tweeted a similar tone regarding Artificial Intelligence. The problems with APIs seem quaint by comparison but they are rooted in the same culture. One where programmers are the machine, data is the enemy and social responsibility doesn't figure in.
+"What's wrong with APIs, you say? Isn't it a good thing that we are opening up closed software to allow customization? That depends on whom they are for and what they allow. I would like to suggest that it is not the panacea that we currently believe."
+Mark Burgess, [blog-awesome](http://markburgess.org/blog_awesome.html) 
+---
+<blockquote class="twitter-tweet" lang="en"><p>Worth reading Superintelligence by Bostrom. We need to be super careful with AI. Potentially more dangerous than nukes.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/statuses/495759307346952192">August 3, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+We move more carefully when we're wounded. Snowden and the subsequent revelations about our country's disregard toward privacy has tempered us but hasn't caused us to change our course. 
+
+about the dangers of creating APIs in a culture of bravado. We're doing things because we can, not because we should. 
+The problems with APIs seem quaint by comparison but they are rooted in the same culture. One where programmers are the machine, data is the enemy and social responsibility doesn't figure in.
 
 Programmers are not themselves villains, and though they keep their heads down, it isn't fair to say that they shirk social responsibility. Even small tech communities have organized groups to bring more women into the tech scene. Getting girls to code. Feminism is championed quite vocally, in ways that would make other industries blush.
 
@@ -40,5 +49,9 @@ But the inputs that go into the machine will always be the most vital points. Wh
 ---
 Notes
 mention the problem of over engineering solutions.
-links
-images
+the various complexities of learning to code:
+	over-engineering
+	magic (quicker feedback) frameworks vs hand-code
+	configuration and new tools
+add links
+add images
