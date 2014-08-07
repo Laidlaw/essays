@@ -1,13 +1,17 @@
 #Let them eat APIs
 
->What's wrong with APIs, you say? Isn't it a good thing that we are opening up closed software to allow customization? That depends on whom they are for and what they allow. I would like to suggest that it is not the panacea that we currently believe.
+>What's wrong with APIs, you say? Isn't it a good thing that we are opening up closed software to allow customization? That depends on whom they are for and what they allow. I would like to suggest that it is not the panacea that we currently believe -- and that there is a good measure of hubris we need to swallow, especially in the area of Software Defined "Everything".
 ######*Mark Burgess*, [blog-awesome](http://markburgess.org/blog_awesome.html) 
 
+We programmers represent the best of mankind. We are curious and bold, early adopters and adapters. We share our knowledge gladly  and never stop learning. We take on drastic mental shifts like version control and open source. We are the template for an emerging global intelligence.     
 
 <blockquote class="twitter-tweet" lang="en"><p>Worth reading Superintelligence by Bostrom. We need to be super careful with AI. Potentially more dangerous than nukes.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/statuses/495759307346952192">August 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Like all of Mark Burgess's writings, his latest article reveals some complex structural issues - in this case its the infrastructure of our coding culture.
+ 
 
+We're doing it again. Building things because we can, not because we should.
 We move more carefully when we're wounded. Snowden and the subsequent revelations about our country's disregard toward privacy has tempered us but hasn't caused us to change our course. 
 
 about the dangers of creating APIs in a culture of bravado. We're doing things because we can, not because we should. 
