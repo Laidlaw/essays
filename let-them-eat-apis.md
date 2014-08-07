@@ -1,22 +1,29 @@
 #Let them eat APIs
 
+Mark Burgess's latest article tackles the infrastructure of our coding culture. Our recklessness could create a new infrastructure of APIs that we can't back away from but can be easily exploited.
+
 >What's wrong with APIs, you say? Isn't it a good thing that we are opening up closed software to allow customization? That depends on whom they are for and what they allow. I would like to suggest that it is not the panacea that we currently believe -- and that there is a good measure of hubris we need to swallow, especially in the area of Software Defined "Everything".
 ######*Mark Burgess*, [blog-awesome](http://markburgess.org/blog_awesome.html) 
 
 We programmers represent the best of mankind. We are curious and bold, early adopters and adapters. We share our knowledge gladly  and never stop learning. We take on drastic mental shifts like version control and open source. We are the template for an emerging global superintelligence.     
 
 <blockquote class="twitter-tweet" lang="en"><p>Worth reading Superintelligence by Bostrom. We need to be super careful with AI. Potentially more dangerous than nukes.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/statuses/495759307346952192">August 3, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Mark Burgess's latest article tackles the infrastructure of our coding culture. Our recklessness could create a new infrastructure of APIs that we can't back away from but can be easily exploited. 
+Where does our bravado (and potential hubris) come from? Which came first, the asshole or IT? Are people drawn to development because they have certain traits or is there something in myriad habits of development that brings it out? I'm very interested in how our habits can form our intentional stance.
 
-Where does our bravado come from? Which came first, the asshole or IT? Are people drawn to development because they have certain traits or is there something in myriad habits of development that brings it out?
+For instance, programmers have a bad taste for hand-wavy articles (like this one) the same way physicists don't care for philosophy. Philosophy doesn't change proof. Often its the other way around. Science has proven things that we don't understand and can't predict, but we have adapted to it.
 
-For instance, programmers have a bad taste for hand-wavy articles (like this one) the same way physicists don't care for philosophers. Just look at the language we use.
+Just look at the language we use.
 
 ['Low-level'](http://en.wikipedia.org/wiki/Low-level_programming_language) is a common phrase among developers that means deep.   But deep for developers means machine language, bash, the kernel. Deep into the strange guts of the machine. That is where the truth is, because truth is in the ones and zeros. 
 
 ['High-level'](http://en.wikipedia.org/wiki/High-level_programming_language) means abstract and easy - made for humans, not machines. It has a second connotation of being conceptual, philosophic - what the rest of the world calls deep but what programmers equate to the term 'vaporware.' Big thinking that never ships. 
+
+Aside: Shipping the ship in the bottle.
+If the ship is the idea and the bottle is the app, you can see how difficult it is to make the ship. It must be a very small ship, a minimum viable ship. Big ships never fit.
+
+In other words, we're practical.
 
 ---
 
