@@ -3,12 +3,12 @@
 >What's wrong with APIs, you say? Isn't it a good thing that we are opening up closed software to allow customization? That depends on whom they are for and what they allow. I would like to suggest that it is not the panacea that we currently believe -- and that there is a good measure of hubris we need to swallow, especially in the area of Software Defined "Everything".
 ######*Mark Burgess*, [blog-awesome](http://markburgess.org/blog_awesome.html) 
 
-We programmers represent the best of mankind. We are curious and bold, early adopters and adapters. We share our knowledge gladly  and never stop learning. We take on drastic mental shifts like version control and open source. We are the template for an emerging global intelligence.     
+We programmers represent the best of mankind. We are curious and bold, early adopters and adapters. We share our knowledge gladly  and never stop learning. We take on drastic mental shifts like version control and open source. We are the template for an emerging global superintelligence.     
 
 <blockquote class="twitter-tweet" lang="en"><p>Worth reading Superintelligence by Bostrom. We need to be super careful with AI. Potentially more dangerous than nukes.</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/statuses/495759307346952192">August 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Like all of Mark Burgess's writings, his latest article reveals some complex structural issues - in this case its the infrastructure of our coding culture.
+Mark Burgess's latest article tackles the infrastructure of our coding culture. Our recklessness could create a new infrastructure of APIs and Artificial Intelligence that we can't back away from. We know that the things we build get used in unexpected ways, we know the government has a disregard for privacy,  
  
 
 We're doing it again. Building things because we can, not because we should.
@@ -51,13 +51,19 @@ We should be more concerned with what our data means than how to code. We should
 
 Our machines are getting smarter, there is no stopping that. Next to Artificial Intelligence, APIs look like a line in Flatland. One dimensional, linear and declarative. 
 
-But the inputs that go into the machine will always be the most vital points. Whether that's an api or unstructured data for a drone to sort out, its the inputs that guide the algorithms. 
+But the inputs that go into the machine will always be the most vital points. Whether that's an api or unstructured data for a drone to sort out, its the inputs that guide the algorithms.
+
+This is why I'm learning data science and machine learning. And you should too.
 ---
 Notes
-mention the problem of over engineering solutions.
-the various complexities of learning to code:
-	over-engineering
-	magic (quicker feedback) frameworks vs hand-code
-	configuration and new tools
-add links
-add images
+* mention the problem of over engineering solutions.
+* the various complexities of learning to code:
+	* over-engineering
+	* magic (quicker feedback) frameworks vs hand-code
+	* configuration and new tools
+* add links
+* add images
+* Further Resources:
+	* Machine Learning
+	* Date Science Toolkit (new course just started!)
+* Incidentally, Mark Burgess's In Search of Certainty is a fantastic read. 
