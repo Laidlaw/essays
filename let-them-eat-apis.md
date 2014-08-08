@@ -20,10 +20,10 @@ Just look at the language we use.
 
 ['High-level'](http://en.wikipedia.org/wiki/High-level_programming_language) means abstract and easy - made for humans, not machines. It has a second connotation of being conceptual, philosophic - what the rest of the world calls deep but what programmers equate to the term 'vaporware.' Big thinking that never ships. 
 
-Aside: Shipping the ship and the bottle.
-If the ship is the idea and the bottle is the app, you can see how difficult it is to make the ship. It must be a very small ship, a minimum viable ship. Big ships never fit.
+>Aside: Shipping the ship and the bottle.
+>If the ship is the idea and the bottle is the app, you can see how difficult it is to make the ship. It must be a very small ship, a minimum viable ship. Big ships never fit.
 
-In other words we prefer pragmatism, not idealism.
+In other words we prefer pragmatism, not idealism. 
 
 ---
 
@@ -31,9 +31,7 @@ Ethical problems are too big for the bottle. They aren't as interesting to commu
 
 Women in tech is a very practical problem. The solution is to bring more people into the tech industry. Everybody should learn to code! Everyone should learn to the think the way we think.
 
-I'm reminded of Rosie the Riveter and the movement to bring women to the factory because we need more people on the assembly line. Get the amazing sensation of progress while helping us make more money!
-
-Granted there is great inequality and a bro nature to tech, but for such a diaphanous scene as tech, this issue has a surprising singularity of voice. Perhaps because its one of the only ways we can demonstrate social responsibility - even as we go through other people's data and doing whatever we can to sell more. We can't wrap our heads around the problem of what we're doing to the rest of society so we pick our battles. In this case, its bring more people into the machine.
+>I'm reminded of Rosie the Riveter and the movement to bring women to the factory because we need more people on the assembly line. Get the sensation of progress while helping us make more money!
 
 Learning to code is another initiative, some have even presented it as a responsibility to learn to code. But what does this do? Certainly its fun to learn a bit of css and html, to change the color of a header or a font - but how does this help people learn to code? 
 
