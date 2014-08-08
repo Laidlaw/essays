@@ -20,23 +20,18 @@ Just look at the language we use.
 
 ['High-level'](http://en.wikipedia.org/wiki/High-level_programming_language) means abstract and easy - made for humans, not machines. It has a second connotation of being conceptual, philosophic - what the rest of the world calls deep but what programmers equate to the term 'vaporware.' Big thinking that never ships. 
 
-Aside: Shipping the ship in the bottle.
+Aside: Shipping the ship and the bottle.
 If the ship is the idea and the bottle is the app, you can see how difficult it is to make the ship. It must be a very small ship, a minimum viable ship. Big ships never fit.
 
-In other words, we're practical.
+In other words we prefer pragmatism, not idealism.
 
 ---
 
-We know that the things we build get used in unexpected ways, we know the government has a disregard for privacy,  
- 
+Ethical problems are too big for the bottle. They aren't as interesting to community of coders. We mean well and it's very interesting the sorts of ethical problems we do take on.
 
-We're doing it again. Building things because we can, not because we should.
-We move more carefully when we're wounded. Snowden and the subsequent revelations about our country's disregard toward privacy has tempered us but hasn't caused us to change our course. 
+Women in tech is a very practical problem. The solution is to bring more people into the tech industry. Everybody should learn to code! Everyone should learn to the think the way we think.
 
-about the dangers of creating APIs in a culture of bravado. We're doing things because we can, not because we should. 
-The problems with APIs seem quaint by comparison but they are rooted in the same culture. One where programmers are the machine, data is the enemy and social responsibility doesn't figure in.
-
-Programmers are not themselves villains, and though they keep their heads down, it isn't fair to say that they shirk social responsibility. Even small tech communities have organized groups to bring more women into the tech scene. Getting girls to code. Feminism is championed quite vocally, in ways that would make other industries blush.
+I'm reminded of Rosie the Riveter and the movement to bring women to the factory because we need more people on the assembly line. Get the amazing sensation of progress while helping us make more money!
 
 Granted there is great inequality and a bro nature to tech, but for such a diaphanous scene as tech, this issue has a surprising singularity of voice. Perhaps because its one of the only ways we can demonstrate social responsibility - even as we go through other people's data and doing whatever we can to sell more. We can't wrap our heads around the problem of what we're doing to the rest of society so we pick our battles. In this case, its bring more people into the machine.
 
