@@ -1,5 +1,5 @@
 #Let them eat APIs
-
+test here
 Mark Burgess's latest article tackles the infrastructure of our coding culture. Our recklessness could create a new infrastructure of APIs that we can't back away from but can be easily exploited.
 
 >What's wrong with APIs, you say? Isn't it a good thing that we are opening up closed software to allow customization? That depends on whom they are for and what they allow. I would like to suggest that it is not the panacea that we currently believe -- and that there is a good measure of hubris we need to swallow, especially in the area of Software Defined "Everything".
